@@ -1,0 +1,25 @@
+{
+    "name": "global-click-tracker",
+    "version": "1.0.0",
+    "description": "A global click tracker for Adobe Data Layer",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+      "build": "tsc"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/azharuddin00/global-click-tracker.git"
+    },
+    "keywords": [
+      "click",
+      "tracker",
+      "adobe",
+      "data layer"
+    ],
+    "author": "Azharuddin Mohammed",
+    "license": "MIT",
+    "devDependencies": {
+      "typescript": "4.0.0"
+    }
+  }
